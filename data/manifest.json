@@ -1,0 +1,415 @@
+{
+    "title":  "AROMATIC Learning Library",
+    "categories":  [
+                       {
+                           "id":  "perfumes",
+                           "title":  "العطور",
+                           "icon":  "spray-can"
+                       },
+                       {
+                           "id":  "collections",
+                           "title":  "المجموعات والباقات",
+                           "icon":  "package"
+                       },
+                       {
+                           "id":  "oils",
+                           "title":  "الزيوت العطرية",
+                           "icon":  "droplet"
+                       },
+                       {
+                           "id":  "devices",
+                           "title":  "الأجهزة",
+                           "icon":  "cpu"
+                       },
+                       {
+                           "id":  "fresheners",
+                           "title":  "المعطرات",
+                           "icon":  "wind"
+                       },
+                       {
+                           "id":  "references",
+                           "title":  "الهرم العطري والمراجع",
+                           "icon":  "layers"
+                       }
+                   ],
+    "kits":  [
+                 {
+                     "id":  "kit-01",
+                     "title":  "العطور الراقية — Travel Size 50ml",
+                     "englishTitle":  "Travel Size Perfumes",
+                     "categoryId":  "perfumes",
+                     "description":  "المرجع التدريبي للعطور الرايقة وحقيبة 50 مل.",
+                     "details":  "",
+                     "pdf":  "pdfs/01.pdf",
+                     "cover":  "covers/01.png",
+                     "pageCount":  20,
+                     "tags":  [
+                                  "العطور الراقية — Travel Size 50ml",
+                                  "Travel Size Perfumes"
+                              ],
+                     "status":  "published",
+                     "order":  1,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "bc7c58aabb1c75cb4aa1560e37c95113b575591465a91a009d16b6fe264b2e5c",
+                     "originalFilename":  "الحقيبة التدريبية العطور الرايقة .pdf"
+                 },
+                 {
+                     "id":  "kit-02",
+                     "title":  "العطور الفاخرة — 2025",
+                     "englishTitle":  "Luxury Perfumes 2025",
+                     "categoryId":  "perfumes",
+                     "description":  "الحقيبة التدريبية للعطور الفاخرة لعام 2025.",
+                     "details":  "",
+                     "pdf":  "pdfs/02.pdf",
+                     "cover":  "covers/02.png",
+                     "pageCount":  48,
+                     "tags":  [
+                                  "العطور الفاخرة — 2025",
+                                  "Luxury Perfumes 2025"
+                              ],
+                     "status":  "published",
+                     "order":  2,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "62eedb4ce2efebd06553c59d3ef13c4cc95d4e7111179da83b767ab4ae5e3494",
+                     "originalFilename":  "الحقيبة التدريبية للعطور الفاخرة  2025.pdf"
+                 },
+                 {
+                     "id":  "kit-03",
+                     "title":  "العطور الفاخرة الجديدة — 90 مل 2026",
+                     "englishTitle":  "New Luxury Perfumes 90ml",
+                     "categoryId":  "perfumes",
+                     "description":  "المرجع التدريبي للعطور الفاخرة الجديدة.",
+                     "details":  "",
+                     "pdf":  "pdfs/03.pdf",
+                     "cover":  "covers/03.png",
+                     "pageCount":  14,
+                     "tags":  [
+                                  "العطور الفاخرة الجديدة — 90 مل 2026",
+                                  "New Luxury Perfumes 90ml"
+                              ],
+                     "status":  "published",
+                     "order":  3,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "5c2a4e40bae81a94381391457f8170f2616e4ade18163590d981abfc7f9a53db",
+                     "originalFilename":  "العطور الفاخرة الجديدة 90 مل  2026.pdf"
+                 },
+                 {
+                     "id":  "kit-04",
+                     "title":  "العطور البيضاء — 200 مل",
+                     "englishTitle":  "White Perfumes 200ml",
+                     "categoryId":  "perfumes",
+                     "description":  "دليل تشكيلة العطور البيضاء سعة 200 مل.",
+                     "details":  "",
+                     "pdf":  "pdfs/04.pdf",
+                     "cover":  "covers/04.png",
+                     "pageCount":  22,
+                     "tags":  [
+                                  "العطور البيضاء — 200 مل",
+                                  "White Perfumes 200ml"
+                              ],
+                     "status":  "published",
+                     "order":  4,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "4e6cfc87a2b4b23771a23681f43b01f37f0474772136e0e61d92744c448a4722",
+                     "originalFilename":  "العطور البيضاء 200 مل (1).pdf"
+                 },
+                 {
+                     "id":  "kit-05",
+                     "title":  "العطور السوداء — 200 مل",
+                     "englishTitle":  "Black Perfumes 200ml",
+                     "categoryId":  "perfumes",
+                     "description":  "دليل تشكيلة العطور السوداء سعة 200 مل.",
+                     "details":  "",
+                     "pdf":  "pdfs/05.pdf",
+                     "cover":  "covers/05.png",
+                     "pageCount":  20,
+                     "tags":  [
+                                  "العطور السوداء — 200 مل",
+                                  "Black Perfumes 200ml"
+                              ],
+                     "status":  "published",
+                     "order":  5,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "08a7f6ce5de623ccb23f265f09d78ff3f275d962e6bb9f89aa6c09d628cf9d8d",
+                     "originalFilename":  "العطور200مل السوداء .pdf"
+                 },
+                 {
+                     "id":  "kit-06",
+                     "title":  "هوتيل إكسبيرينس",
+                     "englishTitle":  "Hotel Experience",
+                     "categoryId":  "collections",
+                     "description":  "الحقيبة التدريبية لهوتيل إكسبيرينس.",
+                     "details":  "",
+                     "pdf":  "pdfs/06.pdf",
+                     "cover":  "covers/06.png",
+                     "pageCount":  12,
+                     "tags":  [
+                                  "هوتيل إكسبيرينس",
+                                  "Hotel Experience"
+                              ],
+                     "status":  "published",
+                     "order":  6,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "ee4aa40f437a515eb7ec4ab4c8749e31cd2876f1231d65ea2ff85d7f1e4c47f7",
+                     "originalFilename":  "هوتيل اكسبيرينس.pdf"
+                 },
+                 {
+                     "id":  "kit-07",
+                     "title":  "هوتيل كولكشن",
+                     "englishTitle":  "Hotel Collection",
+                     "categoryId":  "collections",
+                     "description":  "التعريف بمجموعة هوتيل كولكشن ومكوناتها.",
+                     "details":  "",
+                     "pdf":  "pdfs/07.pdf",
+                     "cover":  "covers/07.png",
+                     "pageCount":  10,
+                     "tags":  [
+                                  "هوتيل كولكشن",
+                                  "Hotel Collection"
+                              ],
+                     "status":  "published",
+                     "order":  7,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "363ae8d01fac789dd5b46f2ebbfb05c625a3bd85b195f2198b96297616caed46",
+                     "originalFilename":  "Hotel_Collection_Training (2).pdf"
+                 },
+                 {
+                     "id":  "kit-08",
+                     "title":  "مي كولكشن",
+                     "englishTitle":  "Me Collection",
+                     "categoryId":  "collections",
+                     "description":  "الحقيبة التدريبية لمجموعة مي كولكشن.",
+                     "details":  "",
+                     "pdf":  "pdfs/08.pdf",
+                     "cover":  "covers/08.png",
+                     "pageCount":  14,
+                     "tags":  [
+                                  "مي كولكشن",
+                                  "Me Collection"
+                              ],
+                     "status":  "published",
+                     "order":  8,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "dbb240c18dcb24429dc6ee3157fa8eff59a84576846efcf93a95688003835301",
+                     "originalFilename":  "الحقيبة التدريبية ، مي كولكشن.pdf"
+                 },
+                 {
+                     "id":  "kit-09",
+                     "title":  "سوفتنس كولكشن",
+                     "englishTitle":  "Softness Collection",
+                     "categoryId":  "collections",
+                     "description":  "مجموعة عطور سوفتنس كولكشن.",
+                     "details":  "",
+                     "pdf":  "pdfs/09.pdf",
+                     "cover":  "covers/09.png",
+                     "pageCount":  14,
+                     "tags":  [
+                                  "سوفتنس كولكشن",
+                                  "Softness Collection"
+                              ],
+                     "status":  "published",
+                     "order":  9,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "334910df9508b97b49806e56ed1a804017bb79e542e898217778380c47926d1c",
+                     "originalFilename":  "الحقيبة التدريبية Softness Collection_compressed.pdf"
+                 },
+                 {
+                     "id":  "kit-10",
+                     "title":  "بوكس ديسكفري",
+                     "englishTitle":  "Discovery Box",
+                     "categoryId":  "collections",
+                     "description":  "حقيبة تدريبية لبوكس ديسكفري.",
+                     "details":  "",
+                     "pdf":  "pdfs/10.pdf",
+                     "cover":  "covers/10.png",
+                     "pageCount":  16,
+                     "tags":  [
+                                  "بوكس ديسكفري",
+                                  "Discovery Box"
+                              ],
+                     "status":  "published",
+                     "order":  10,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "102a77cb56832359316c5c8ef1c736ec2226721f2711797fc661fea961109034",
+                     "originalFilename":  "حقيبة تدريبية-بوكس ديسكفوري (2).pdf"
+                 },
+                 {
+                     "id":  "kit-11",
+                     "title":  "بوكس التوزيعات — 9 عبوات 12 مل",
+                     "englishTitle":  "Distribution Gift Box",
+                     "categoryId":  "collections",
+                     "description":  "محتوى بوكس التوزيعات العطرية.",
+                     "details":  "",
+                     "pdf":  "pdfs/11.pdf",
+                     "cover":  "covers/11.png",
+                     "pageCount":  15,
+                     "tags":  [
+                                  "بوكس التوزيعات — 9 عبوات 12 مل",
+                                  "Distribution Gift Box"
+                              ],
+                     "status":  "published",
+                     "order":  11,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "cb6d0849e2832ecd81923fa96f93cc5efa6eff41c69b161ec3404ea3c9a77cab",
+                     "originalFilename":  "بوكس التوزيعات .pdf"
+                 },
+                 {
+                     "id":  "kit-12",
+                     "title":  "الحقيبة الشاملة للزيوت العطرية",
+                     "englishTitle":  "Fragrance Oils",
+                     "categoryId":  "oils",
+                     "description":  "مرجع الزيوت العطرية واستخداماتها.",
+                     "details":  "",
+                     "pdf":  "pdfs/12.pdf",
+                     "cover":  "covers/12.png",
+                     "pageCount":  64,
+                     "tags":  [
+                                  "الحقيبة الشاملة للزيوت العطرية",
+                                  "Fragrance Oils"
+                              ],
+                     "status":  "published",
+                     "order":  12,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "e8124cf1ad23239c84f812f8a45ef4d4ca5ae94077fe2b2c35be2b6d40eda2cb",
+                     "originalFilename":  "الحقيبة الشاملة للزيوت العطرية 2.pdf"
+                 },
+                 {
+                     "id":  "kit-13",
+                     "title":  "جهاز التعطير دايموند",
+                     "englishTitle":  "DIAMOND Diffuser",
+                     "categoryId":  "devices",
+                     "description":  "التعرف على جهاز التعطير دايموند.",
+                     "details":  "",
+                     "pdf":  "pdfs/13.pdf",
+                     "cover":  "covers/13.png",
+                     "pageCount":  12,
+                     "tags":  [
+                                  "جهاز التعطير دايموند",
+                                  "DIAMOND Diffuser"
+                              ],
+                     "status":  "published",
+                     "order":  13,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "35a9d2d50b92d7ee42aea8681a461180f3dcd624b2c8e4d76755cda0b2626a83",
+                     "originalFilename":  "جهاز التعطير دايموند DIAMOND.pdf"
+                 },
+                 {
+                     "id":  "kit-14",
+                     "title":  "معطرات الجو والمفارش",
+                     "englishTitle":  "Room \u0026 Fabric Fresheners",
+                     "categoryId":  "fresheners",
+                     "description":  "حقيبة معطرات الجو والمفارش.",
+                     "details":  "",
+                     "pdf":  "pdfs/14.pdf",
+                     "cover":  "covers/14.png",
+                     "pageCount":  12,
+                     "tags":  [
+                                  "معطرات الجو والمفارش",
+                                  "Room \u0026 Fabric Fresheners"
+                              ],
+                     "status":  "published",
+                     "order":  14,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "c5e2d391f343ec2f1598e6388da63f9fce5ee22329cdaf6d67603c7a16e3042d",
+                     "originalFilename":  "معطرات الجو والمفارش.pdf"
+                 },
+                 {
+                     "id":  "kit-15",
+                     "title":  "الهرم العطري لمعطرات الجو والمفارش — 2026",
+                     "englishTitle":  "Freshener Fragrance Pyramids",
+                     "categoryId":  "fresheners",
+                     "description":  "الهرم العطري لمعطرات الجو والمفارش لعام 2026.",
+                     "details":  "",
+                     "pdf":  "pdfs/15.pdf",
+                     "cover":  "covers/15.png",
+                     "pageCount":  11,
+                     "tags":  [
+                                  "الهرم العطري لمعطرات الجو والمفارش — 2026",
+                                  "Freshener Fragrance Pyramids"
+                              ],
+                     "status":  "published",
+                     "order":  15,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "4db4285b9b3fd8b4ba9c9cc752f87ae4f1666fcb37feae5e2a4c87613513bfa7",
+                     "originalFilename":  "الهرم العطري لمعطرات الجو والمفارش 2026.pdf"
+                 },
+                 {
+                     "id":  "kit-16",
+                     "title":  "الهرم العطري للعطور الفاخرة القديمة",
+                     "englishTitle":  "Classic Luxury Fragrance Pyramids",
+                     "categoryId":  "references",
+                     "description":  "أهرام النوتات العطرية للعطور الفاخرة القديمة.",
+                     "details":  "",
+                     "pdf":  "pdfs/16.pdf",
+                     "cover":  "covers/16.png",
+                     "pageCount":  12,
+                     "tags":  [
+                                  "الهرم العطري للعطور الفاخرة القديمة",
+                                  "Classic Luxury Fragrance Pyramids"
+                              ],
+                     "status":  "published",
+                     "order":  16,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "0247c0cf9925d0d86329359d670acb4b148754b71937aee31e18ead4b4338fdb",
+                     "originalFilename":  "الهرم العطري للفاخرة القديمة.pdf"
+                 },
+                 {
+                     "id":  "kit-17",
+                     "title":  "الهرم العطري للمسك",
+                     "englishTitle":  "Musk Fragrance Pyramids",
+                     "categoryId":  "references",
+                     "description":  "الهرم العطري لمنتجات المسك.",
+                     "details":  "",
+                     "pdf":  "pdfs/17.pdf",
+                     "cover":  "covers/17.png",
+                     "pageCount":  7,
+                     "tags":  [
+                                  "الهرم العطري للمسك",
+                                  "Musk Fragrance Pyramids"
+                              ],
+                     "status":  "published",
+                     "order":  17,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "6e21092e4fdf780de759d59c7d3d4c152d80d1b05ccd8b0c5d79406e628a9b22",
+                     "originalFilename":  "الهرم العطري للمسك.pdf"
+                 },
+                 {
+                     "id":  "kit-18",
+                     "title":  "رويال مسك",
+                     "englishTitle":  "Royal Musk",
+                     "categoryId":  "references",
+                     "description":  "مخطط الهرم العطري لرويال مسك.",
+                     "details":  "",
+                     "pdf":  "pdfs/18.pdf",
+                     "cover":  "covers/18.png",
+                     "pageCount":  1,
+                     "tags":  [
+                                  "رويال مسك",
+                                  "Royal Musk"
+                              ],
+                     "status":  "published",
+                     "order":  18,
+                     "createdAt":  "2026-10-08",
+                     "updatedAt":  "2026-10-08",
+                     "sha256":  "7169d5f6862eb6cf0fa47012263041c0d391b1ec989a8b53d25a141fd152a3f3",
+                     "originalFilename":  "رويال مسك.pdf"
+                 }
+             ]
+}

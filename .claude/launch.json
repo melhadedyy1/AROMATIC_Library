@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "aromatic",
+      "runtimeExecutable": "powershell",
+      "runtimeArgs": [
+        "-NoProfile",
+        "-ExecutionPolicy", "Bypass",
+        "-File", "D:\\AROMATIC_Library\\scripts\\serve.ps1",
+        "-Port", "8765",
+        "-Root", "D:\\AROMATIC_Library"
+      ],
+      "port": 8765
+    }
+  ]
+}

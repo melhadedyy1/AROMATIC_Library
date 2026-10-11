@@ -1,0 +1,13 @@
+# Local dev output / editor noise
+.vscode/
+.idea/
+*.swp
+*.tmp
+Thumbs.db
+.DS_Store
+
+# PowerShell / profile junk
+*.log
+
+# Reserved for local overrides; nothing here is required for the site to run
+local/
